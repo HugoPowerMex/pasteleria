@@ -1,0 +1,56 @@
+.header .col-logotipo img {
+    width: 100px;
+}
+.header .col-navegacion ul.menu.menu-large li a {
+    line-height: 2.8125rem;
+    color: #97ADAD;
+    padding: 0 1.125rem;
+}
+.header .cont-envio-gratis {
+    font-family: 'Gotham Medium', sans-serif;
+    font-size: 1.25rem;
+    padding: 0.375rem 0;
+    background-color: #D8D2C4;
+}
+.header .row-servicio-domicilio {
+    font-family: 'Gotham Light', sans-serif;
+    color: #97ADAD;
+    font-size: 0.875rem;
+    padding: 0.875rem 0;
+}
+.header .row-servicio-domicilio a {
+    font-family: 'Gotham Bold', sans-serif;
+    font-size: 1.0625rem;
+    color: #97ADAD;
+}
+
+
+.cont-carrusel-categorias {
+    background: #fcccc5;
+    color: #ffffff;
+    padding: 0.875rem 0 1.25rem;
+}
+
+.cont-carrusel-categorias .carrusel-categorias .cont-categoria .imagen img {
+    display: inline-block;
+    width: 2.5rem;
+    height: 2.5rem;
+}
+
+.cont-carrusel-categorias .carrusel-categorias .cont-categoria .titulo {
+    font-family: 'Arial', sans-serif;
+    font-size: 0.75rem;
+    color: #ffffff;
+}
+
+.cont-carrusel-categorias .carrusel-categorias .cont-categoria .imagen img {
+    display: inline-block;
+    width: 2.5rem;
+    height: 2.5rem;
+}
+
+.cont-carrusel-categorias .carrusel-categorias .cont-categoria {
+    width: 5.625rem;
+    text-align: center;
+}
+
